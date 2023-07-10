@@ -51,7 +51,7 @@ color: white;
 .content-img{
    width: 200px;
 }
-/*product-intruduction-part*/
+/*product-intruduction-part-styles*/
 
 .product-headline{
     text-align: center;
@@ -70,5 +70,79 @@ color: white;
     margin-top: 20px;
 }
 .product-item-1{
-    width: 250px;
+   width: 250px;
 }
+/*latest-deals-styles*/
+
+.deals-container{
+    height: 100vh;
+    background-image: url(./flowers/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+   width: 1030px;
+   height: 280px;
+   margin: auto;
+   text-align: center;
+   display: flex;
+   align-items: center;
+ justify-content: center;
+}
+.input-fil-button{
+    display: flex;
+    padding-top: 20px;
+    text-align: center;
+}
+.input-fil{
+    margin-right:4px;
+    
+}
+.input-email{
+    padding:5px;
+}
+/*footer-styles-start-from-hare*/
+
+.footer-info{
+
+    background-color: rgb(20, 15, 15);
+    padding: 0%;
+    margin: auto;
+    padding: 100px;
+}
+    
+.shop-info-container{
+    width: 450px;
+    text-align: center;
+    align-items: center;
+    margin:auto;
+    color: azure;
+}
+.flower-shop{
+    color: red;
+}
+.flower-shop-color{
+    color: greenyellow;
+}
+.shop-details{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.about-page{
+    margin-bottom:15px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
