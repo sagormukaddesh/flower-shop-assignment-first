@@ -68,6 +68,7 @@ nav >ul a{
 
 .btn-primary{
     padding: 5px;
+    border-style: none;
     border-radius: 5px;
 background:rgb(212, 91, 69);
 color: white;
