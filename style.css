@@ -1,7 +1,12 @@
 *{
     margin: 0%;
-    padding: 0%;
-}
+    padding: 0%;}
+/*coomon shared styles*/
+body{
+    font-family: 'Open Sans', sans-serif;
+ }
+    
+
 /*nav-part-styles*/
 .nav-title{
     font-size: 45px;
