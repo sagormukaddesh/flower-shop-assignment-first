@@ -60,8 +60,12 @@ nav >ul a{
 .banner-heading{
     font-size: 40px;
     padding-bottom: 20px;
-
 }
+.hot-deals-delaile{
+   margin: 15px; 
+} 
+
+
 .btn-primary{
     padding: 5px;
     border-radius: 5px;
@@ -224,6 +228,9 @@ color: white;
 }
 .about-page{
     margin-bottom:15px ;
+}
+.flower-shop-color{
+    color: lightcoral;
 }
 
 
